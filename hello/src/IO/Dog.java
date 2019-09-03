@@ -1,3 +1,5 @@
+package IO;
+
 public class Dog {
     public static void main(String[] args) {
         String[] strArr = {"|\\_/|", "|q p|   /}", "( 0 )\"\"\"\\", "|\"^\"`    |", "||_/=\\\\__|"};

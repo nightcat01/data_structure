@@ -1,3 +1,5 @@
+package IO;
+
 public class MyAnswer {
     public static void main(String[] args) {
         String id = "nightcat";
